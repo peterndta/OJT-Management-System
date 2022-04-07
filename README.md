@@ -1,1 +1,1 @@
-# OJT-Management-System
+# OJT Management System
