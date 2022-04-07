@@ -16,3 +16,12 @@
 
 <img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-edit-profile.jpg" width="400" height="217" />
 
+#### Some images of Company Role
+
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-create-job.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-student-offer.jpg" width="400" height="217" />
+
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-student-offer-pop.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-application.jpg" width="400" height="217" />
+
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-company-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-submit-result.jpg" width="400" height="217" />
+
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-sercurity.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-profile.jpg" width="400" height="217" />
