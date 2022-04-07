@@ -21,7 +21,7 @@
 
 <img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-student-offer-pop.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-application.jpg" width="400" height="217" />
 
-<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-company-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-submit-result.jpg" width="400" height="217" />
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-applicaiont-option.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-submit-result.jpg" width="400" height="217" />
 
 <img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-sercurity.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/company-profile.jpg" width="400" height="217" />
 
