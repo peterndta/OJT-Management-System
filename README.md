@@ -6,11 +6,13 @@
 
 ### Screenshot:
 #### Some images of Student Role
-<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-job-list.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-job-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-apply.jpg" width="400" height="217" />
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-job-list.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-job-profile.jpg" width="400" height="217" />
 
-<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-company-list.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-company-profile.jpg" width="400" height="217" />
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-apply.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-company-list.jpg" width="400" height="217" />
 
-<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-confirm.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-ojt-result.jpg" width="400" height="217" />
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-company-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-confirm.jpg" width="400" height="217" />
 
-<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-security.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-edit-profile.jpg" width="400" height="217" />
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-ojt-result.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-security.jpg" width="400" height="217" />
+
+<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-profile.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/student-edit-profile.jpg" width="400" height="217" />
 
