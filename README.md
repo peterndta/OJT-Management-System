@@ -39,5 +39,5 @@
 
 
 #### Gitlab repository: 
-*Front-end, [https://gitlab.com/hoanxkse140424/ojt-fe](https://gitlab.com/hoanxkse140424/ojt-fe).*
+*Front-end, [https://gitlab.com/hoanxkse140424/ojt-fe](https://gitlab.com/hoanxkse140424/ojt-fe).*<br/>
 *Back-end, [https://gitlab.com/hoanxkse140424/ojt-fe](https://gitlab.com/nghianhse130496/ojt-management-project).*
