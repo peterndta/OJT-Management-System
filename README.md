@@ -37,3 +37,7 @@
 
 <img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/school-ojt-result.jpg" width="400" height="217" />&nbsp;<img src="https://github.com/peterndta/OJT-Management-System/blob/main/Screenshot/school-security.jpg" width="400" height="217" />
 
+
+#### Gitlab repository: 
+*Front-end, [https://gitlab.com/hoanxkse140424/ojt-fe](https://gitlab.com/hoanxkse140424/ojt-fe).*
+*Back-end, [https://gitlab.com/hoanxkse140424/ojt-fe](https://gitlab.com/nghianhse130496/ojt-management-project).*
